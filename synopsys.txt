@@ -1957,6 +1957,7 @@ PrimeTime-VX
 PrimeTime_gui
 Primepower
 Primepower_gui
+PP-Elite
 ProMA-L1
 ProMA-L2
 ProMA-LD
